@@ -18,7 +18,7 @@ The project is exported as **HTML5**, making it playable directly on GitHub Page
 
 ### Option 1: Play Online
 Simply open the GitHub Pages link:  
-**https://your-username.github.io/your-repository-name/**
+**https://geek3301.github.io/racing-game/**
 
 ### Option 2: Play Offline
 1. Clone or download the repository  

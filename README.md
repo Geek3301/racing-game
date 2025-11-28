@@ -1,4 +1,4 @@
-# Racing Game Demo
+# Racing Game
 
 This repository contains the source code for a small racing game demo created with **Construct 2**. The goal of the game is to drive the car as fast as possible while staying on the road.  
 
